@@ -1,4 +1,4 @@
-# NumPy TOC
+# NumPy Table of Content
 
 1. **Introduction to NumPy**
    - What is NumPy?
